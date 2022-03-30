@@ -1,0 +1,161 @@
+{
+    "images":
+    {
+
+    },
+    
+    "buttons":
+    {     
+		"singleplayer":
+        {
+            "text" : "menu.singleplayer",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "mainmenu:resources/dbuttons.png",
+            "posX" : 50,
+            "posY" : -100,
+            "width" : 100,
+            "height" : 20,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },		
+
+		"multiplayer":
+        {
+            "text" : "menu.multiplayer",			
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "mainmenu:resources/fbuttons.png",
+            "posX" : 50,
+            "posY" : -65,
+            "width" : 100,
+        "height" : 20,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+               
+		"options":
+        {
+            "text" : "menu.options",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "mainmenu:resources/ebuttons.png",
+            "posX" : 50,
+            "posY" : -30,
+            "width" : 100,
+            "height" : 20,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+		        
+		"language":
+        {
+            "text" : "options.language",
+			"texture" : "mainmenu:resources/ebuttons.png",
+            "posX" : 50,
+            "posY" : 0,
+            "width" : 100,
+            "height" : 20,		
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+                    
+        "quit":
+        {
+            "text" : "menu.quit",
+			"normalTextColor" : 16729156,
+			"hoverTextColor" : 14483456,
+			"texture" : "mainmenu:resources/dbuttons.png",
+            "posX" : 50,
+            "posY" : 65,
+            "width" : 100,
+            "height" : 20,
+			"alignment" : "left_center",
+			"hoverText" : "No! Don't leave!",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+		
+        "mods":
+        {
+            "text" : "Mods (#modsloaded#/#modsactive#)",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "mainmenu:resources/fbuttons.png",
+            "posX" : 50,
+            "posY" : 30,
+            "width" : 100,
+            "height" : 20,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+
+        }
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+        
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -45,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : -118,
+            "posY" : 5,
+            "color" : -256,
+            "alignment" : "right_center",
+            "texts" : "file:minecraft:texts/splashes.txt"
+        },
+        
+        "background":
+        {
+            "image" : "mainmenu:resources/background.png",
+            "mode" : "fill"
+        }
+    }
+}
