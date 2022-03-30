@@ -12,8 +12,214 @@
   "manifestVersion": 1,
   "name": "Jargonian Tuesdays",
   "version": "0.9",
-  "author": "",
+  "author": "Olervi",
   "files": [
+    {
+      "projectID":260912,
+      "fileID":2745852,
+      "required": true
+    },
+    {
+      "projectID":244049,
+      "fileID":2712670,
+      "required": true
+    },
+    {
+      "projectID":245480,
+      "fileID":2691542,
+      "required": true
+    },
+    {
+      "projectID":227639,
+      "fileID":3051450,
+      "required": true
+    },
+    {
+      "projectID":254268,
+      "fileID":3529742,
+      "required": true
+    },
+    {
+      "projectID":247111,
+      "fileID":2887479,
+      "required": true
+    },
+    {
+      "projectID":308851,
+      "fileID":2742442,
+      "required": true
+    },
+    {
+      "projectID":291786,
+      "fileID":2701203,
+      "required": true
+    },
+    {
+      "projectID":313298,
+      "fileID":3379693,
+      "required": true
+    },
+    {
+      "projectID":245211,
+      "fileID":3665853,
+      "required": true
+    },
+    {
+      "projectID":75598,
+      "fileID":2957213,
+      "required": true
+    },
+    {
+      "projectID":409880,
+      "fileID":3614638,
+      "required": true
+    },
+    {
+      "projectID":293505,
+      "fileID":2766866,
+      "required": true
+    },
+    {
+      "projectID":223666,
+      "fileID":2915506,
+      "required": true
+    },
+    {
+      "projectID":482566,
+      "fileID":3310627,
+      "required": true
+    },
+    {
+      "projectID":257573,
+      "fileID":3248033,
+      "required": true
+    },
+    {
+      "projectID":422363,
+      "fileID":3408077,
+      "required": true
+    },
+    {
+      "projectID":255902,
+      "fileID":2661187,
+      "required": true
+    },
+    {
+      "projectID":244559,
+      "fileID":2830252,
+      "required": true
+    },
+    {
+      "projectID":245755,
+      "fileID":2859589,
+      "required": true
+    },
+    {
+      "projectID":253043,
+      "fileID":3597087,
+      "required": true
+    },
+    {
+      "projectID":292785,
+      "fileID":2915154,
+      "required": true
+    },
+
+
+
+
+
+
+    {
+      "projectID":223628,
+      "fileID":2629023,
+      "required": true
+    },
+    {
+      "projectID":244258,
+      "fileID":3553627,
+      "required": true
+    },
+    {
+      "projectID":247695,
+      "fileID":2755795,
+      "required": true
+    },
+    {
+      "projectID":271740,
+      "fileID":2707353,
+      "required": true
+    },
+    {
+      "projectID":306549,
+      "fileID":2906537,
+      "required": true
+    },
+    {
+      "projectID":545353,
+      "fileID":3519479,
+      "required": true
+    },
+    {
+      "projectID":570795,
+      "fileID":3647152,
+      "required": true
+    },
+    {
+      "projectID":250957,
+      "fileID":2630860,
+      "required": true
+    },
+    {
+      "projectID":291737,
+      "fileID":2920441,
+      "required": true
+    },
+    {
+      "projectID":222880,
+      "fileID":2926428,
+      "required": true
+    },
+    {
+      "projectID":69163,
+      "fileID":2926431,
+      "required": true
+    },
+    {
+      "projectID":227443,
+      "fileID":2920505,
+      "required": true
+    },
+    {
+      "projectID":271835,
+      "fileID":2920437,
+      "required": true
+    },
+    {
+      "projectID":297365,
+      "fileID":2702806,
+      "required": true
+    },
+    {
+      "projectID":285492,
+      "fileID":2705304,
+      "required": true
+    },
+    {
+      "projectID":238003,
+      "fileID":2559089,
+      "required": true
+    },
+    {
+      "projectID":319441,
+      "fileID":3536155,
+      "required": true
+    },
+    {
+      "projectID":299946,
+      "fileID":2786697,
+      "required": true
+    },
     {
       "projectID": 230111,
       "fileID": 2745547,
