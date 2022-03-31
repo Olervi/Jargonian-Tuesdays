@@ -1,4 +1,4 @@
-Have you ever searched for a modpack with contains a big varity of every mod category but never wanted to play an expert pack and mybe just chill with your friends?  
+Have you ever searched for a modpack which contains a big varity of every mod category but never wanted to play an expert pack and mybe just chill with your friends?  
 We have the perfect pack for you.  
 It contains mods for tech freaks like **Thermal**, **Mekanism**, **Immersive Engineering** or even **Rockhounding Mod: Chemistry**   
 Also we have quite a big magic part with the mods **Botania**, **Blood Magic**, **Astral Sorcery** or **Thaumcraft**  
