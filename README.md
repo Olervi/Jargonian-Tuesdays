@@ -19,5 +19,5 @@ Servers powered by [CraftJunkies](https://craftjunkies.de)
 
 Special thanks to:
 PenguTV - CO-Desinger of the main menu and helping with some mods
-CorruptRacoon - Main-Designer and searching for the right mod versions
+CorruptRacoon - Main-Designer and searching for the right mod versions  
 Craftman96 - Hoster of the offical Event Server
