@@ -15,7 +15,7 @@ For the latest news join the Discord of [Team Smiles](dc.teamsmiles.de) or have 
 
 Event moderator and creator - Olervi (This is me :)
 
-Servers powered by [Crafjunkies](https://craftjunkies.de)
+Servers powered by [CrafJunkies](https://craftjunkies.de)
 
 Special thanks to:
 PenguTV - CO-Desinger of the main menu and helping with some mods
