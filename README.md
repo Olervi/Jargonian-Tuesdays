@@ -13,11 +13,11 @@ For the latest news join the Discord of [Team Smiles](dc.teamsmiles.de) or have 
 
 
 
-Event moderator and creator - Olervi (This is me :)
+Event moderator and creator - Olervi (This is me :)  
 
-Servers powered by [CraftJunkies](https://craftjunkies.de)
+Servers powered by [CraftJunkies](https://craftjunkies.de)  
 
 Special thanks to:
-PenguTV - CO-Desinger of the main menu and helping with some mods
+PenguTV - CO-Desinger of the main menu and helping with some mods  
 CorruptRacoon - Main-Designer and searching for the right mod versions  
 Craftman96 - Hoster of the offical Event Server
