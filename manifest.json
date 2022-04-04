@@ -15,11 +15,6 @@
   "author": "Olervi",
   "files": [
     {
-      "projectID":260912,
-      "fileID":2745852,
-      "required": true
-    },
-    {
       "projectID":244049,
       "fileID":2712670,
       "required": true
@@ -300,11 +295,6 @@
       "required": true
     },
     {
-      "projectID": 251389,
-      "fileID": 3159511,
-      "required": true
-    },
-    {
       "projectID": 229049,
       "fileID": 2745551,
       "required": true
@@ -385,11 +375,6 @@
       "required": true
     },
     {
-      "projectID": 380998,
-      "fileID": 3132891,
-      "required": true
-    },
-    {
       "projectID": 225738,
       "fileID": 2503041,
       "required": true
@@ -425,11 +410,6 @@
       "required": true
     },
     {
-      "projectID": 280506,
-      "fileID": 2899375,
-      "required": true
-    },
-    {
       "projectID": 254818,
       "fileID": 2992813,
       "required": true
@@ -447,11 +427,6 @@
     {
       "projectID": 247007,
       "fileID": 3053017,
-      "required": true
-    },
-    {
-      "projectID": 564236,
-      "fileID": 3648807,
       "required": true
     },
     {
@@ -780,11 +755,6 @@
       "required": true
     },
     {
-      "projectID": 270790,
-      "fileID": 2713714,
-      "required": true
-    },
-    {
       "projectID": 248453,
       "fileID": 2785465,
       "required": true
@@ -907,11 +877,6 @@
     {
       "projectID": 277631,
       "fileID": 2750633,
-      "required": true
-    },
-    {
-      "projectID": 236307,
-      "fileID": 3159505,
       "required": true
     },
     {
@@ -1342,11 +1307,6 @@
     {
       "projectID": 340583,
       "fileID": 3003242,
-      "required": true
-    },
-    {
-      "projectID": 295910,
-      "fileID": 3010622,
       "required": true
     },
     {
